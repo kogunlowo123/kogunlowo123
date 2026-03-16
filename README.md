@@ -1,94 +1,91 @@
-# Hi, I'm Kehinde Ogunlowo
+# Kehinde Ogunlowo
 
-[![Cloud & DevOps Engineer](https://img.shields.io/badge/Cloud%20%26%20DevOps-Engineer-0078D4?style=for-the-badge)](https://github.com/kogunlowo123)
-[![Terraform Module Author](https://img.shields.io/badge/Terraform-Module%20Author-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/kogunlowo123)
-[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-28A745?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/kogunlowo123)
+**Principal Cloud & AI Architect** | AWS · Azure · GCP | Terraform · AI Agents · DevSecOps
 
-Cloud & DevOps Engineer building production-grade Terraform modules across AWS, Azure, and GCP. I focus on creating reusable, well-tested infrastructure-as-code that teams can adopt with confidence. Active open-source contributor and maintainer of 80+ Terraform modules and a growing collection of MCP servers.
-
-![Public Repos](https://img.shields.io/github/stars/kogunlowo123?style=flat-square&label=Total%20Stars)
-![Followers](https://img.shields.io/github/followers/kogunlowo123?style=flat-square&label=Followers)
+Building production-ready, open-source cloud infrastructure and AI agent systems used across healthcare, finance, government, and SaaS.
 
 ---
 
-## Tech Stack
+## By the Numbers
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-## Repository Catalog
-
-### AWS Terraform Modules (25+)
-
-Production-ready modules for core AWS services including VPC, ECS, EKS, Lambda, RDS, S3, CloudFront, IAM, and more. Each module includes full variable validation, outputs, and usage examples.
-
-[Browse all AWS modules](https://github.com/kogunlowo123?tab=repositories&q=terraform-aws)
-
-### Azure Terraform Modules (20+)
-
-Modules covering Azure fundamentals: Virtual Networks, AKS, App Service, Azure Functions, Cosmos DB, Key Vault, Storage Accounts, and more. Built for enterprise-scale landing zones.
-
-[Browse all Azure modules](https://github.com/kogunlowo123?tab=repositories&q=terraform-azure)
-
-### GCP Terraform Modules (15+)
-
-Modules for GCP workloads: GKE, Cloud Run, Cloud Functions, BigQuery, Cloud SQL, VPC, IAM, and more. Designed with Google Cloud best practices in mind.
-
-[Browse all GCP modules](https://github.com/kogunlowo123?tab=repositories&q=terraform-gcp)
-
-### MCP Servers (7)
-
-Model Context Protocol servers that extend AI assistants with real-world capabilities -- infrastructure management, cloud resource queries, documentation lookups, and more.
-
-[Browse all MCP servers](https://github.com/kogunlowo123?tab=repositories&q=mcp)
-
-### AI & Prompt Libraries
-
-Curated collections of prompts, templates, and patterns for working with large language models in DevOps and cloud engineering workflows.
-
-[Browse AI & Prompt repos](https://github.com/kogunlowo123?tab=repositories&q=ai+prompt)
-
-### Multi-Cloud Architecture
-
-Reference architectures and patterns for deploying workloads across AWS, Azure, and GCP with consistent networking, security, and observability.
-
-[Browse Multi-Cloud repos](https://github.com/kogunlowo123?tab=repositories&q=multi-cloud)
+- **112** public repositories
+- **70+** production Terraform modules (AWS, Azure, GCP)
+- **8** MCP servers for Claude/AI integration
+- **8** AI agent categories (AgentForge curriculum)
+- **92** interactive architecture diagram pages
+- **100%** open source, MIT licensed
 
 ---
 
 ## Featured Projects
 
+### Infrastructure as Code
+| Module | Cloud | Description |
+|--------|-------|-------------|
+| [terraform-aws-eks](https://github.com/kogunlowo123/terraform-aws-eks) | AWS | Production EKS with managed node groups, IRSA, add-ons |
+| [terraform-aws-vpc-complete](https://github.com/kogunlowo123/terraform-aws-vpc-complete) | AWS | Multi-tier VPC with NAT, Flow Logs, endpoints |
+| [terraform-azure-aks](https://github.com/kogunlowo123/terraform-azure-aks) | Azure | AKS with workload identity, Defender, policy |
+| [terraform-azure-hub-spoke-network](https://github.com/kogunlowo123/terraform-azure-hub-spoke-network) | Azure | Hub-spoke with Firewall, Bastion, VPN |
+| [terraform-gcp-gke](https://github.com/kogunlowo123/terraform-gcp-gke) | GCP | GKE Autopilot/Standard with Workload Identity |
+| [terraform-gcp-vpc-network](https://github.com/kogunlowo123/terraform-gcp-vpc-network) | GCP | VPC with Cloud NAT, firewall, Shared VPC |
+| [multi-cloud-landing-zone](https://github.com/kogunlowo123/multi-cloud-landing-zone) | Multi | AWS + Azure + GCP landing zone with identity federation |
+
+### AI & Agent Engineering
 | Project | Description |
 |---------|-------------|
-| [terraform-aws-vpc-complete](https://github.com/kogunlowo123/terraform-aws-vpc-complete) | Production-ready AWS VPC with multi-tier subnets, NAT Gateways, and VPC Endpoints |
-| [terraform-aws-eks](https://github.com/kogunlowo123/terraform-aws-eks) | Production-grade EKS cluster with managed node groups, IRSA, and cluster autoscaler |
-| [terraform-azure-aks](https://github.com/kogunlowo123/terraform-azure-aks) | Enterprise AKS with Azure CNI Overlay, Cilium, Workload Identity, and Defender |
-| [terraform-gcp-gke](https://github.com/kogunlowo123/terraform-gcp-gke) | GKE Autopilot and Standard cluster module with Workload Identity |
-| [terraform-aws-rag-pipeline](https://github.com/kogunlowo123/terraform-aws-rag-pipeline) | AWS RAG pipeline with Bedrock Knowledge Base and OpenSearch Serverless |
-| [multi-cloud-landing-zone](https://github.com/kogunlowo123/multi-cloud-landing-zone) | Reference architecture for multi-cloud landing zones with unified governance |
+| [AgentForge Portal](https://kogunlowo123.github.io/agentforge-portal/) | 8-category AI agent curriculum with architecture diagrams |
+| [langchain-multi-agent-framework](https://github.com/kogunlowo123/langchain-multi-agent-framework) | LangGraph orchestrator with supervisor routing |
+| [rag-pipeline-hallucination-mitigation](https://github.com/kogunlowo123/rag-pipeline-hallucination-mitigation) | 5-layer RAG with 94.3% faithfulness |
+| [multi-industry-ai-assistant](https://github.com/kogunlowo123/multi-industry-ai-assistant) | HIPAA/SOX/OSHA compliant AI assistant |
+
+### MCP Servers
+| Server | Purpose |
+|--------|---------|
+| [mcp-server-aws](https://github.com/kogunlowo123/mcp-server-aws) | EC2, S3, Lambda, CloudWatch, IAM |
+| [mcp-server-azure](https://github.com/kogunlowo123/mcp-server-azure) | VMs, Storage, Key Vault, AKS |
+| [mcp-server-kubernetes](https://github.com/kogunlowo123/mcp-server-kubernetes) | Pods, deployments, services, logs |
+| [mcp-server-terraform](https://github.com/kogunlowo123/mcp-server-terraform) | Plan, apply, validate, state |
+| [mcp-server-github](https://github.com/kogunlowo123/mcp-server-github) | Repos, issues, PRs, workflows |
+
+### Security & Compliance
+| Project | Description |
+|---------|-------------|
+| [terraform-aws-security-baseline](https://github.com/kogunlowo123/terraform-aws-security-baseline) | GuardDuty, Security Hub, Config, CloudTrail, Macie |
+| [entra-iam-zero-trust](https://github.com/kogunlowo123/entra-iam-zero-trust) | Zero Trust IAM with Conditional Access, PIM, FIDO2 |
+| [devops-devsecops-pipeline](https://github.com/kogunlowo123/devops-devsecops-pipeline) | SAST, DAST, OPA gates, container hardening |
 
 ---
 
-## GitHub Stats
+## Architecture Portfolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kogunlowo123&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+[View Interactive Architecture Diagrams](https://kogunlowo123.github.io/agentforge-portal/diagrams/) | [Full Portfolio](https://kogunlowo123.github.io/kogunlowo123.github.io/portfolio/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kogunlowo123&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+---
+
+## Tech Stack
+
+**Cloud:** AWS, Azure, GCP
+**IaC:** Terraform, CloudFormation, Bicep, Pulumi
+**Containers:** Kubernetes, EKS, AKS, GKE, Docker, Helm
+**AI/ML:** Bedrock, OpenAI, Vertex AI, LangChain, LangGraph, CrewAI
+**Security:** GuardDuty, Sentinel, Chronicle, Zero Trust, MITRE ATT&CK
+**Languages:** Python, TypeScript, HCL, PowerShell, Bash
+**CI/CD:** GitHub Actions, Azure DevOps, Cloud Build
+
+---
+
+## Certifications
+
+AWS Solutions Architect Professional · AWS DevOps Engineer Professional · Azure Security Engineer · Azure Solutions Architect · GCP Cloud Security Engineer · GCP Cloud DevOps Engineer · HashiCorp Terraform Associate · CEH · CySA+ · CompTIA Cloud+
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kehinde-ogunlowo/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kogunlowo123)
+- **LinkedIn:** [kehinde-ogunlowo](https://linkedin.com/in/kehinde-ogunlowo)
+- **Portfolio:** [kogunlowo123.github.io](https://kogunlowo123.github.io)
+- **Business:** [Citadel Cloud Management](https://citadelcloudmanagement.com)
+
+---
+
+*All repositories are production-ready, MIT-licensed, and accepting contributions.*
