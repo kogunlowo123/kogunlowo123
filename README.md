@@ -33,7 +33,7 @@ Building production-ready, open-source cloud infrastructure and AI agent systems
 ### AI & Agent Engineering
 | Project | Description |
 |---------|-------------|
-| [AgentForge Portal](https://kogunlowo123.github.io/agentforge-portal/) | 8-category AI agent curriculum with architecture diagrams |
+| [AgentForge Portal](https://citadel-cloud-management.github.io/agentforge-portal/) | 8-category AI agent curriculum with architecture diagrams |
 | [langchain-multi-agent-framework](https://github.com/kogunlowo123/langchain-multi-agent-framework) | LangGraph orchestrator with supervisor routing |
 | [rag-pipeline-hallucination-mitigation](https://github.com/kogunlowo123/rag-pipeline-hallucination-mitigation) | 5-layer RAG with 94.3% faithfulness |
 | [multi-industry-ai-assistant](https://github.com/kogunlowo123/multi-industry-ai-assistant) | HIPAA/SOX/OSHA compliant AI assistant |
@@ -58,7 +58,7 @@ Building production-ready, open-source cloud infrastructure and AI agent systems
 
 ## Architecture Portfolio
 
-[View Interactive Architecture Diagrams](https://kogunlowo123.github.io/agentforge-portal/diagrams/) | [Full Portfolio](https://kogunlowo123.github.io/kogunlowo123.github.io/portfolio/)
+[View Interactive Architecture Diagrams](https://citadel-cloud-management.github.io/agentforge-portal/diagrams/) | [Full Portfolio](https://kogunlowo123.github.io/kogunlowo123.github.io/portfolio/)
 
 ---
 
