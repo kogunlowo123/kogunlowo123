@@ -89,3 +89,15 @@ AWS Solutions Architect Professional · AWS DevOps Engineer Professional · Azur
 ---
 
 *All repositories are production-ready, MIT-licensed, and accepting contributions.*
+
+<!-- project-structure -->
+## Project structure
+
+```text
+├── .editorconfig
+├── .gitattributes
+├── CODEOWNERS
+├── CONTRIBUTING.md
+├── README.md
+└── SECURITY.md
+```
